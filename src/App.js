@@ -39,7 +39,7 @@ const App = () => {
   return (
     <div className="wrapper">
       <span role="img" aria-label="laughing emoji">
-        😆
+        😆😅
       </span>
       {loading ? (
         <div className="spinner"></div>
